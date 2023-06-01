@@ -274,7 +274,7 @@ strong {
     width: 24rem;
     background-attachment: scroll;
     border-radius: 0.5rem;
-    background-image: linear-gradient(180deg, transparent 55%, #E1E2E6 70%), url('./animated.gif');
+    background-image: linear-gradient(180deg, transparent 55%, #E1E2E6 70%), url('../img/animated.gif');
     background-position: 0% 0%, center;
     background-repeat: repeat, no-repeat;
     background-size: cover, cover;
@@ -1258,7 +1258,7 @@ strong {
     width: 24rem;
     background-attachment: scroll;
     border-radius: 0.5rem;
-    background-image: linear-gradient(180deg, #E1E2E6 30%, transparent 70%), url('./animated.gif');
+    background-image: linear-gradient(180deg, #E1E2E6 30%, transparent 70%), url('../img/animated.gif');
     background-position: 0% 0%, bottom;
     background-repeat: repeat, no-repeat;
     background-size: cover, cover;
